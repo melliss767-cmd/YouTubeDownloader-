@@ -1,50 +1,61 @@
 # 📥 YouTube Downloads
 
-## 📅 2026-05-10 12:15:05
+## 📅 2026-05-10 12:53:17
 
-### 🎬 How to crochet a FROG Tutorial: Step-by-Step DIY
-- **Source**: [https://youtu.be/0MbX8uekGc8?si=hMugd8_rDcJWweOt](https://youtu.be/0MbX8uekGc8?si=hMugd8_rDcJWweOt)
+### 🎬 The Psychology of People Who Are Lazy but Ambitious
+- **Source**: [https://youtu.be/UCP_be8pT50?si=WZkLiStzTyBT3D_d](https://youtu.be/UCP_be8pT50?si=WZkLiStzTyBT3D_d)
 - **Type**: Video
 - **Quality**: 720p
-- **Total Size**: 356.9 MB
+- **Total Size**: 97.6 MB
 
 **📦 Parts (Split Archive):**
-1. [📥 How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.z01](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.z01) (90.0 MB)
-2. [📥 How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.z02](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.z02) (90.0 MB)
-3. [📥 How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.z03](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.z03) (90.0 MB)
-4. [📥 How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.zip](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_FROG_Tutorial__Step-by-Step_DIY_0MbX8uekGc8_720p.mp4.zip) (85.9 MB)
+1. [📥 The_Psychology_of_People_Who_Are_Lazy_but_Ambitious_UCP_be8pT50_720p.mp4.z01](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/The_Psychology_of_People_Who_Are_Lazy_but_Ambitious_UCP_be8pT50_720p.mp4.z01) (90.0 MB)
+2. [📥 The_Psychology_of_People_Who_Are_Lazy_but_Ambitious_UCP_be8pT50_720p.mp4.zip](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/The_Psychology_of_People_Who_Are_Lazy_but_Ambitious_UCP_be8pT50_720p.mp4.zip) (6.8 MB)
 
 > 💡 **How to extract:** Download all parts and use [7-Zip](https://www.7-zip.org/) or `zip -s- {filename}.zip -O {filename}` to combine
 
 ---
 
-### 🎬 How to crochet a star keychain with bow (FREE written pattern)
-- **Source**: [https://youtu.be/E9R2AnFqFQQ?si=KmeQL7MD_G0NaEQT](https://youtu.be/E9R2AnFqFQQ?si=KmeQL7MD_G0NaEQT)
+### 🎬 how to STOP BEING LAZY and wasting your life away (no bs) + free schedule
+- **Source**: [https://youtu.be/9Cq8fG9lSYo?si=b__LW5FJ5jKEj0ho](https://youtu.be/9Cq8fG9lSYo?si=b__LW5FJ5jKEj0ho)
 - **Type**: Video
 - **Quality**: 720p
-- **Total Size**: 271.1 MB
+- **Total Size**: 127.6 MB
 
 **📦 Parts (Split Archive):**
-1. [📥 How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.z01](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.z01) (90.0 MB)
-2. [📥 How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.z02](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.z02) (90.0 MB)
-3. [📥 How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.z03](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.z03) (90.0 MB)
-4. [📥 How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.zip](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_crochet_a_star_keychain_with_bow__FREE_written_patter_E9R2AnFqFQQ_720p.mp4.zip) (0.1 MB)
+1. [📥 how_to_STOP_BEING_LAZY_and_wasting_your_life_away__no_bs_9Cq8fG9lSYo_720p.mp4.z01](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/how_to_STOP_BEING_LAZY_and_wasting_your_life_away__no_bs_9Cq8fG9lSYo_720p.mp4.z01) (90.0 MB)
+2. [📥 how_to_STOP_BEING_LAZY_and_wasting_your_life_away__no_bs_9Cq8fG9lSYo_720p.mp4.zip](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/how_to_STOP_BEING_LAZY_and_wasting_your_life_away__no_bs_9Cq8fG9lSYo_720p.mp4.zip) (36.6 MB)
 
 > 💡 **How to extract:** Download all parts and use [7-Zip](https://www.7-zip.org/) or `zip -s- {filename}.zip -O {filename}` to combine
 
 ---
 
-### 🎬 Star Keychain Crochet | Kyomicraft
-- **Source**: [https://youtu.be/jcz7bYmfJN8?si=etGGw8gXjqvqyiis](https://youtu.be/jcz7bYmfJN8?si=etGGw8gXjqvqyiis)
+### 🎬 How to TRICK your Brain into Getting Straight A's NO MATTER WHAT
+- **Source**: [https://youtu.be/7-pteiPq2p0?si=A7tbNNbNJrVDvu0C](https://youtu.be/7-pteiPq2p0?si=A7tbNNbNJrVDvu0C)
 - **Type**: Video
 - **Quality**: 720p
-- **Total Size**: 228.3 MB
+- **Total Size**: 54.4 MB
 
-**📦 Parts (Split Archive):**
-1. [📥 Star_Keychain_Crochet___Kyomicraft_jcz7bYmfJN8_720p.mp4.z01](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/Star_Keychain_Crochet___Kyomicraft_jcz7bYmfJN8_720p.mp4.z01) (90.0 MB)
-2. [📥 Star_Keychain_Crochet___Kyomicraft_jcz7bYmfJN8_720p.mp4.z02](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/Star_Keychain_Crochet___Kyomicraft_jcz7bYmfJN8_720p.mp4.z02) (90.0 MB)
-3. [📥 Star_Keychain_Crochet___Kyomicraft_jcz7bYmfJN8_720p.mp4.zip](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/Star_Keychain_Crochet___Kyomicraft_jcz7bYmfJN8_720p.mp4.zip) (47.9 MB)
+📥 [**Download How_to_TRICK_your_Brain_into_Getting_Straight_A_s_NO_MATTER_7-pteiPq2p0_720p.mp4**](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_to_TRICK_your_Brain_into_Getting_Straight_A_s_NO_MATTER_7-pteiPq2p0_720p.mp4)
 
-> 💡 **How to extract:** Download all parts and use [7-Zip](https://www.7-zip.org/) or `zip -s- {filename}.zip -O {filename}` to combine
+---
+
+### 🎬 How To Become Dangerously Self-Educated (complete plan)
+- **Source**: [https://youtu.be/CRMQZhBwwiU?si=4DGs8DzwCsl4jh8m](https://youtu.be/CRMQZhBwwiU?si=4DGs8DzwCsl4jh8m)
+- **Type**: Video
+- **Quality**: 720p
+- **Total Size**: 20.4 MB
+
+📥 [**Download How_To_Become_Dangerously_Self-Educated__complete_plan_CRMQZhBwwiU_720p.mp4**](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/How_To_Become_Dangerously_Self-Educated__complete_plan_CRMQZhBwwiU_720p.mp4)
+
+---
+
+### 🎬 مغزت رو گول بزن تا درس بخونه! (روش ۷ روزه معتاد شدن به مطالعه)
+- **Source**: [https://youtu.be/OtplkUAV6vI?si=IzkMjZwkDt5jyfbK](https://youtu.be/OtplkUAV6vI?si=IzkMjZwkDt5jyfbK)
+- **Type**: Video
+- **Quality**: 720p
+- **Total Size**: 28.1 MB
+
+📥 [**Download OtplkUAV6vI_OtplkUAV6vI_720p.mp4**](https://raw.githubusercontent.com/melliss767-cmd/YouTubeDownloader-/main/downloads/OtplkUAV6vI_OtplkUAV6vI_720p.mp4)
 
 ---
